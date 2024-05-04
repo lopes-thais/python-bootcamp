@@ -56,7 +56,7 @@ while True:
     print("Opção inválida! Tente novamente")
     continue
         
-#Operação de Depósitos
+# Operação de Depósitos
 
   if num == 1:
     depositar = float(input("\nOpção DEPÓSITO selecionada, informe o valor a ser depositado: "))
@@ -80,7 +80,7 @@ while True:
     else:
           continue
 
-#Operação de Saques
+# Operação de Saques
 
   if num == 2:
         sacar = float(input("Opção SAQUE selecionada, informe o valor a ser sacado: "))
